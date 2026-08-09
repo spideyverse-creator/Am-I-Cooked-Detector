@@ -337,6 +337,50 @@ I am sleepy
 I am exhausted
 I stayed awake all night
 
+My crush left me on seen
+My crush didn't reply
+She didn't reply
+He didn't reply
+My girlfriend is angry
+My boyfriend is angry
+Nobody replied to my message
+I got rejected
+My crush ignored me
+My relationship is complicated
+
+I lost my game
+I lost the match
+I got killed in Minecraft
+I am stuck at a low rank
+My enemy destroyed me
+I keep losing games
+I am bad at gaming
+My Minecraft house got destroyed
+I got killed by a creeper
+My teammate betrayed me
+
+I forgot my homework
+My teacher caught me
+I didn't do my homework
+I am late for school
+My attendance is low
+I forgot my assignment
+My teacher is angry
+I didn't attend class
+I got detention
+I am failing school
+
+My mom is angry
+My dad is angry
+My parents found out
+My parents want to talk
+My mom caught me
+My dad caught me
+I need permission from my parents
+My parents said no
+I broke something at home
+I got caught by my parents
+
 ## ⭐ Support
 
 If this project made you laugh, consider giving the repository a ⭐ on GitHub.
