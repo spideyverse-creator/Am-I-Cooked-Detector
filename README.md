@@ -315,6 +315,27 @@ I haven't completed my syllabus
 I got bad marks
 My result is coming
 
+I have no money
+I am broke
+My wallet is empty
+I have no cash
+I spent all my money
+My bank account is empty
+I am poor
+I need money
+I can't afford this
+My salary is gone
+
+I didn't sleep last night
+I am very tired
+I haven't slept
+I slept at 4 AM
+I can't sleep
+I am awake all night
+My sleep schedule is ruined
+I am sleepy
+I am exhausted
+I stayed awake all night
 
 ## ⭐ Support
 
