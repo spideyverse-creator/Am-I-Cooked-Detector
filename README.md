@@ -381,6 +381,33 @@ My parents said no
 I broke something at home
 I got caught by my parents
 
+My phone battery is dead
+My phone is at 1 percent
+My phone storage is full
+I lost my charger
+My phone is not working
+My screen is broken
+My phone is overheating
+My battery is dying
+I have no charger
+My phone has too many notifications
+
+I am hungry
+There is no food at home
+I want pizza
+I want a burger
+I am starving
+The fridge is empty
+I haven't eaten
+I need food
+I am waiting for food
+I am hungry at midnight
+
+
+there are too many lines but I'm too lazy to write any more line. 💀
+The project is done. My motivation is not. 🗿
+
+
 ## ⭐ Support
 
 If this project made you laugh, consider giving the repository a ⭐ on GitHub.
