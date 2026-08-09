@@ -53,180 +53,6 @@ No `pip install` is required.
 
 ---
 
-# 🎯 How It Works
-
-The program asks:
-
-```text
-😬 What's your situation?
-```
-
-You enter something like:
-
-```text
-Tomorrow is my exam and I haven't studied anything
-```
-
-The program searches for keywords such as:
-
-```text
-exam
-study
-test
-marks
-```
-
-If a matching category is found, it generates a random roast.
-
-Example:
-
-```text
-📂 Category: EXAM
-🔥 Cooked Level: 94%
-
-🔴 Status: YOU ARE COOKED 💀
-
-🤖 AI Verdict:
-Your preparation has officially left the chat 📚💀
-```
-
----
-
-# 📊 Cooked Levels
-
-| Cooked Level | Status                 |
-| ------------ | ---------------------- |
-| 0–20%        | 🟢 SAFE                |
-| 21–40%       | 🟡 SLIGHTLY COOKED     |
-| 41–60%       | 🟠 GETTING COOKED      |
-| 61–80%       | 🔴 COOKED              |
-| 81–95%       | 💀 VERY COOKED         |
-| 96–100%      | ☠️ ABSOLUTELY CHARCOAL |
-
----
-
-# 😂 Categories & Funny Statements
-
-## 📚 Exam
-
-* Bro opened the book only to check the page number 💀
-* Your preparation has officially left the chat 📚💀
-* Exam is tomorrow and your brain is still on vacation 🗿
-* You studied everything except the actual syllabus 😭
-* At this point, guessing answers is your study strategy.
-
----
-
-## 💻 Coding
-
-* The bug is not in the code. It's in the developer 💀
-* Bro is fighting the compiler instead of fixing the code 😭
-* Stack Overflow is about to become your best friend.
-* Your code has more errors than your confidence 💀
-* Python didn't fail you. You failed Python 🐍💀
-
----
-
-## 💰 Money
-
-* Bro's wallet is running on air 💀
-* Your bank account needs emotional support 😭
-* Financially cooked. Absolutely toasted. 🔥
-* Your balance is basically a motivational quote.
-* Bro checked his bank account and saw a horror movie 💀
-
----
-
-## 😴 Sleep
-
-* Bro has forgotten what sunlight looks like ☀️💀
-* Your sleep schedule needs a software update.
-* At this point you're not sleeping, you're buffering 😭
-* Your bed knows you better than your family.
-* Bro sleeps at 4 AM and wakes up at "whenever." 🗿
-
----
-
-## 💔 Relationship
-
-* Bro got emotionally damage.exe 💀
-* That "seen" button hit harder than expected 😭
-* Bro is refreshing the chat like it's a stock market.
-* The reply is taking longer than a Windows update 💀
-* Bro is writing a paragraph and deleting it 17 times.
-
----
-
-## 🎮 Gaming
-
-* Bro got skill-issued 💀
-* The enemy didn't win. You just donated the victory 😭
-* Minecraft said: not today bro.
-* Your gaming career needs a restart.
-* Bro blamed lag. The Wi-Fi was innocent 💀
-
----
-
-## 🏫 School
-
-* Teacher said "take out your homework" and bro entered survival mode 💀
-* Attendance is doing more damage than the final boss.
-* Bro is physically present but mentally AFK.
-* The teacher knows your name for all the wrong reasons 😭
-* School isn't ready for your next excuse.
-
----
-
-## 👨‍👩‍👦 Parents
-
-* Bro heard "we need to talk" and instantly started sweating 💀
-* Your parents have activated final boss mode.
-* Bro is calculating every possible escape route 😭
-* One question from Mom and the whole story collapses.
-* Bro suddenly remembers every good thing he has ever done.
-
----
-
-## 📱 Phone
-
-* Battery at 2% and bro still watching YouTube 💀
-* Your charger is doing more work than you.
-* Phone storage: 99% full. Brain storage: unknown.
-* Bro has 47 notifications and chooses to ignore all of them.
-* Your phone is fighting for its life 😭
-
----
-
-## 🍕 Food
-
-* Bro is hungry enough to eat the menu itself 💀
-* Your stomach has started sending warning notifications.
-* Food is currently your only personality trait.
-* Bro opened the fridge for the 12th time hoping something new spawned.
-* The fridge said: "Bro, I already told you. There's nothing here." 💀
-
----
-
-## ⏰ Late
-
-* Bro's definition of "5 minutes" is scientifically questionable 💀
-* The alarm rang. Bro negotiated with it and lost.
-* Traffic is innocent this time. You're just late 😭
-* Bro arrived after the important part ended.
-* Time management has officially blocked you.
-
----
-
-## 🗿 Friend
-
-* Bro's friendship group is 90% roasting and 10% survival 💀
-* Your friends know too much. You're in danger.
-* Bro trusted the group chat. Rookie mistake 😭
-* Friendship level: chaotic.
-* Your friends would sell you for one samosa 💀
-
----
-
 # 🤔 Unknown Situations
 
 If the program doesn't recognize the situation, it randomly chooses one of these:
@@ -304,108 +130,53 @@ Made with Python 🐍 + Randomness 🎲 + Pure Chaos 💀
 
 # Here the list off statement that you can use in this.
 
-I have an exam tomorrow
-I have a test tomorrow
-I haven't studied for my exam
-I didn't study anything
-I forgot to study
-My exam went badly
-I don't know anything for the paper
-I haven't completed my syllabus
-I got bad marks
-My result is coming
+I have an exam tomorrow,
+I have a test tomorrow,
+I haven't studied for my exam,
+I didn't study anything,
+I forgot to study,
+My exam went badly,
+I don't know anything for the paper,
+I haven't completed my syllabus,
+I got bad marks,
+My result is coming.
 
-I have no money
-I am broke
-My wallet is empty
-I have no cash
-I spent all my money
-My bank account is empty
-I am poor
-I need money
-I can't afford this
-My salary is gone
+I have no money,
+I am broke,
+My wallet is empty,
+I have no cash,
+I spent all my money,
+My bank account is empty,
+I am poor,
+I need money,
+I can't afford this,
+My salary is gone.
 
-I didn't sleep last night
-I am very tired
-I haven't slept
-I slept at 4 AM
-I can't sleep
-I am awake all night
-My sleep schedule is ruined
-I am sleepy
-I am exhausted
-I stayed awake all night
+I didn't sleep last night,
+I am very tired,
+I haven't slept,
+I slept at 4 AM,
+I can't sleep,
+I am awake all night,
+My sleep schedule is ruined,
+I am sleepy,
+I am exhausted,
+I stayed awake all night.
 
-My crush left me on seen
-My crush didn't reply
-She didn't reply
-He didn't reply
-My girlfriend is angry
-My boyfriend is angry
-Nobody replied to my message
-I got rejected
-My crush ignored me
-My relationship is complicated
-
-I lost my game
-I lost the match
-I got killed in Minecraft
-I am stuck at a low rank
-My enemy destroyed me
-I keep losing games
-I am bad at gaming
-My Minecraft house got destroyed
-I got killed by a creeper
-My teammate betrayed me
-
-I forgot my homework
-My teacher caught me
-I didn't do my homework
-I am late for school
-My attendance is low
-I forgot my assignment
-My teacher is angry
-I didn't attend class
-I got detention
-I am failing school
-
-My mom is angry
-My dad is angry
-My parents found out
-My parents want to talk
-My mom caught me
-My dad caught me
-I need permission from my parents
-My parents said no
-I broke something at home
-I got caught by my parents
-
-My phone battery is dead
-My phone is at 1 percent
-My phone storage is full
-I lost my charger
-My phone is not working
-My screen is broken
-My phone is overheating
-My battery is dying
-I have no charger
-My phone has too many notifications
-
-I am hungry
-There is no food at home
-I want pizza
-I want a burger
-I am starving
-The fridge is empty
-I haven't eaten
-I need food
-I am waiting for food
-I am hungry at midnight
+My crush left me on seen,
+My crush didn't reply,
+She didn't reply,
+He didn't reply,
+My girlfriend is angry,
+My boyfriend is angry,
+Nobody replied to my message,
+I got rejected,
+My crush ignored me,
+My relationship is complicated,
 
 
-there are too many lines but I'm too lazy to write any more line. 💀
-The project is done. My motivation is not. 🗿
+## there are too many lines but I'm too lazy to write any more line. 💀
+## The project is done. My motivation is not. 🗿
 
 
 ## ⭐ Support
