@@ -2,7 +2,7 @@
 
 > **"If you're asking whether you're cooked... you're probably already cooked." 🗿**
 
-## 🚀 Features
+## Features
 
 * 🔍 Detects the type of situation using keywords
 * 🔥 Generates a Cooked Level from 40%–100%
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python 3
 * `random` module
@@ -53,7 +53,7 @@ No `pip install` is required.
 
 ---
 
-# 🤔 Unknown Situations
+# Unknown Situations
 
 If the program doesn't recognize the situation, it randomly chooses one of these:
 
@@ -67,7 +67,7 @@ If the program doesn't recognize the situation, it randomly chooses one of these
 
 ---
 
-# 🧪 Example
+# Example
 
 ```text
 =======================================================
@@ -97,7 +97,7 @@ Remember: If you're asking this question...
 
 ---
 
-# 📌 Important Note
+# Important Note
 
 This project is **just for entertainment**.
 
@@ -105,7 +105,7 @@ The Cooked Level is randomly generated and should not be taken seriously. 😂
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Possible future updates:
 
@@ -120,7 +120,7 @@ Possible future updates:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Aman Manyar**
 
