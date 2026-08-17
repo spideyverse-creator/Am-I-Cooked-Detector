@@ -186,3 +186,8 @@ If this project made you laugh, consider giving the repository a ⭐ on GitHub.
 **And remember...**
 
 > 💀 If you're asking "Am I Cooked?" — you're probably already cooked.
+
+
+
+
+## NEW VERSION IS OUT JUST CHECK IT OUT.
